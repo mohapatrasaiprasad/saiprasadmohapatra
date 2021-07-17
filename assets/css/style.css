@@ -1521,5 +1521,6 @@ margin-bottom: 1vw;
   font-size: 1.1vw;
 }
 .msg{
- margin-left:25%;
+ margin: auto; text-align: center;
+ padding: 10px;
 }
